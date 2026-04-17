@@ -120,4 +120,4 @@ Still, review scripts before use in sensitive environments.
 
 ## License
 
-MIT (or your preferred license)
+MIT
